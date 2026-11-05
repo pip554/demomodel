@@ -1,4 +1,5 @@
 # demomodel
 just a testing repository
 <br>
-Author - Priti Nath
+Author - Priti Nath (demo)
+
